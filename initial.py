@@ -2,8 +2,6 @@
 import csv
 import matplotlib.pyplot as plt
 
-a = "value"
-
 # graph axises
 x=[]
 y=[]
